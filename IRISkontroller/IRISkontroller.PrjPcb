@@ -37,6 +37,23 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
+DocumentPath=lib\INDP102100X40N.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=GQOKYIFY
+
+[Document2]
 DocumentPath=lib\CAPMP7342X30N.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -53,7 +70,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SIAQUGLN
 
-[Document2]
+[Document3]
 DocumentPath=lib\10TPB220ML.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -70,7 +87,24 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SFBOPDDX
 
-[Document3]
+[Document4]
+DocumentPath=lib\CAPMP3528X20N.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=UNAPWKGD
+
+[Document5]
 DocumentPath=lib\DFN540P650X115-3N.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -87,7 +121,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NBJQAYML
 
-[Document4]
+[Document6]
 DocumentPath=lib\INDP123123X100N.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -104,7 +138,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LAEWVOXL
 
-[Document5]
+[Document7]
 DocumentPath=lib\DPAK127P1336X457-8N.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -121,7 +155,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VQGCXFNO
 
-[Document6]
+[Document8]
 DocumentPath=lib\LM2677SX-5.0.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -138,7 +172,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SJCNRUWB
 
-[Document7]
+[Document9]
 DocumentPath=lib\MSS1210-153MEB.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -155,7 +189,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AMQUBOVQ
 
-[Document8]
+[Document10]
 DocumentPath=lib\PDS760-13.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -172,7 +206,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AWTKXBKQ
 
-[Document9]
+[Document11]
 DocumentPath=Top.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -189,7 +223,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SSCVOWED
 
-[Document10]
+[Document12]
 DocumentPath=MCU.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -206,7 +240,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TYMIGAPY
 
-[Document11]
+[Document13]
 DocumentPath=IRISkontroller.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -223,7 +257,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FSDMHYOS
 
-[Document12]
+[Document14]
 DocumentPath=Powersupply.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -240,7 +274,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=APIYFTUA
 
-[Document13]
+[Document15]
 DocumentPath=Communication.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -257,7 +291,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VSQCGBCD
 
-[Document14]
+[Document16]
 DocumentPath=Motordriver.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -273,6 +307,74 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VXJCUIJU
+
+[Document17]
+DocumentPath=lib\10TPB33M.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=DNPWEUYL
+
+[Document18]
+DocumentPath=lib\LM43602PWPT.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=KLAACEJE
+
+[Document19]
+DocumentPath=lib\T495D476M025ATE120.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=LPUONRDR
+
+[Document20]
+DocumentPath=lib\MSS1038-333MLC.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=TGSDDTKK
 
 [Configuration1]
 Name=Default Configuration
@@ -1099,6 +1201,60 @@ NetClassManualEnabled=1
 SelectedOnly=0
 UpdateVariants=1
 PartTypes=0
+ComponentLibIdentifierKind0=Library Name And Type
+ComponentLibraryIdentifier0=10TPB220ML.SchLib
+ComponentDesignItemID0=10TPB220ML
+ComponentSymbolReference0=10TPB220ML
+ComponentUpdate0=1
+ComponentIsDeviceSheet0=0
+ComponentLibIdentifierKind1=Library Name And Type
+ComponentLibraryIdentifier1=10TPB33M.SchLib
+ComponentDesignItemID1=10TPB33M
+ComponentSymbolReference1=10TPB33M
+ComponentUpdate1=1
+ComponentIsDeviceSheet1=0
+ComponentLibIdentifierKind2=Library Name And Type
+ComponentLibraryIdentifier2=LM2677SX-5.0.SchLib
+ComponentDesignItemID2=LM2677SX-5.0
+ComponentSymbolReference2=LM2677SX-5.0
+ComponentUpdate2=1
+ComponentIsDeviceSheet2=0
+ComponentLibIdentifierKind3=Library Name And Type
+ComponentLibraryIdentifier3=MSS1210-153MEB.SchLib
+ComponentDesignItemID3=MSS1210-153MEB
+ComponentSymbolReference3=MSS1210-153MEB
+ComponentUpdate3=1
+ComponentIsDeviceSheet3=0
+ComponentLibIdentifierKind4=Library Name And Type
+ComponentLibraryIdentifier4=OVLib.SVNDbLib/altium
+ComponentDesignItemID4=100nF
+ComponentSymbolReference4=CAP
+ComponentUpdate4=0
+ComponentIsDeviceSheet4=0
+ComponentLibIdentifierKind5=Library Name And Type
+ComponentLibraryIdentifier5=OVLib.SVNDbLib/altium
+ComponentDesignItemID5=10nF
+ComponentSymbolReference5=CAP
+ComponentUpdate5=0
+ComponentIsDeviceSheet5=0
+ComponentLibIdentifierKind6=Library Name And Type
+ComponentLibraryIdentifier6=OVLib.SVNDbLib/altium
+ComponentDesignItemID6=4.7uF
+ComponentSymbolReference6=CAP
+ComponentUpdate6=0
+ComponentIsDeviceSheet6=0
+ComponentLibIdentifierKind7=Library Name And Type
+ComponentLibraryIdentifier7=OVLib.SVNDbLib/altium
+ComponentDesignItemID7=TLV1117
+ComponentSymbolReference7=LDO_REGULATOR
+ComponentUpdate7=0
+ComponentIsDeviceSheet7=0
+ComponentLibIdentifierKind8=Library Name And Type
+ComponentLibraryIdentifier8=PDS760-13.SchLib
+ComponentDesignItemID8=PDS760-13
+ComponentSymbolReference8=PDS760-13
+ComponentUpdate8=1
+ComponentIsDeviceSheet8=0
 FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
@@ -1112,6 +1268,67 @@ RemoveParameters=0
 AddModels=1
 RemoveModels=1
 UpdateCurrentModels=1
+ParameterName0=Comment
+ParameterUpdate0=1
+ParameterName1=Component Kind
+ParameterUpdate1=1
+ParameterName2=Description
+ParameterUpdate2=1
+ParameterName3=Farnell
+ParameterUpdate3=1
+ParameterName4=leverandor
+ParameterUpdate4=1
+ParameterName5=leverandor_varenr
+ParameterUpdate5=1
+ParameterName6=Leverandør
+ParameterUpdate6=1
+ParameterName7=Library Reference
+ParameterUpdate7=1
+ParameterName8=navn
+ParameterUpdate8=1
+ParameterName9=nokkelord
+ParameterUpdate9=1
+ParameterName10=pakke_opprettet
+ParameterUpdate10=1
+ParameterName11=pakke_opprettet_av
+ParameterUpdate11=1
+ParameterName12=pakketype
+ParameterUpdate12=1
+ParameterName13=pris
+ParameterUpdate13=1
+ParameterName14=produsent
+ParameterUpdate14=1
+ParameterName15=symbol_opprettet
+ParameterUpdate15=1
+ParameterName16=symbol_opprettet_av
+ParameterUpdate16=1
+ParameterName17=Varenummer
+ParameterUpdate17=1
+ParameterName18=verdi
+ParameterUpdate18=1
+ModelTypeGroup0=PCBLIB
+ModelTypeUpdate0=1
+ModelType0=PCBLIB
+ModelName0=CAPC0805(2012)100_N
+ModelUpdate0=1
+ModelType1=PCBLIB
+ModelName1=CAPC1206(3216)170_N
+ModelUpdate1=1
+ModelType2=PCBLIB
+ModelName2=CAPMP7342X30N
+ModelUpdate2=1
+ModelType3=PCBLIB
+ModelName3=DFN540P650X115-3N
+ModelUpdate3=1
+ModelType4=PCBLIB
+ModelName4=DPAK127P1336X457-8N
+ModelUpdate4=1
+ModelType5=PCBLIB
+ModelName5=INDP123123X100N
+ModelUpdate5=1
+ModelType6=PCBLIB
+ModelName6=SOT230P700X180-4N
+ModelUpdate6=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
