@@ -214,7 +214,7 @@ AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
 AnnotateOrder=-1
-DoLibraryUpdate=1
+DoLibraryUpdate=0
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=1
@@ -265,7 +265,7 @@ AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
 AnnotateOrder=-1
-DoLibraryUpdate=1
+DoLibraryUpdate=0
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=1
@@ -282,7 +282,7 @@ AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
 AnnotateOrder=-1
-DoLibraryUpdate=1
+DoLibraryUpdate=0
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=1
@@ -292,23 +292,6 @@ GenerateClassCluster=0
 DocumentUniqueId=VSQCGBCD
 
 [Document16]
-DocumentPath=Motordriver.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=VXJCUIJU
-
-[Document17]
 DocumentPath=lib\10TPB33M.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -325,7 +308,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DNPWEUYL
 
-[Document18]
+[Document17]
 DocumentPath=lib\LM43602PWPT.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -342,7 +325,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KLAACEJE
 
-[Document19]
+[Document18]
 DocumentPath=lib\T495D476M025ATE120.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -359,7 +342,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LPUONRDR
 
-[Document20]
+[Document19]
 DocumentPath=lib\MSS1038-333MLC.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -376,7 +359,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TGSDDTKK
 
-[Document21]
+[Document20]
 DocumentPath=lib\HTSSOP65P640X120_HS-17N.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -393,7 +376,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CCYDJBRH
 
-[Document22]
+[Document21]
 DocumentPath=lib\ATxmega64A4U-AU.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -410,7 +393,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document23]
+[Document22]
 DocumentPath=lib\AX_MX-TTL-CONNECTOR.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -427,7 +410,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document24]
+[Document23]
 DocumentPath=lib\BD6221F.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -444,7 +427,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document25]
+[Document24]
 DocumentPath=lib\BLM18SG331TN1D.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -461,7 +444,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document26]
+[Document25]
 DocumentPath=lib\FT230XS.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -478,7 +461,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document27]
+[Document26]
 DocumentPath=lib\MILL-MAX_897-43-005-00-100001.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -495,7 +478,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document28]
+[Document27]
 DocumentPath=lib\MILL-MAX_897-43-005-00-100001.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -512,7 +495,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document29]
+[Document28]
 DocumentPath=lib\MOLEX_22-03-50351.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -529,7 +512,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document30]
+[Document29]
 DocumentPath=lib\PRTR5V0U2X.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -546,7 +529,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document31]
+[Document30]
 DocumentPath=lib\SN74LVC2G241.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -563,7 +546,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document32]
+[Document31]
 DocumentPath=lib\SOP0635P4800-16N.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -580,7 +563,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document33]
+[Document32]
 DocumentPath=lib\SOT143B-M.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -597,7 +580,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document34]
+[Document33]
 DocumentPath=lib\TQFP08P10X10-44.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -614,8 +597,42 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document35]
+[Document34]
 DocumentPath=lib\TSOP65P400X130-8N.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document35]
+DocumentPath=lib\WIZ820IO.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document36]
+DocumentPath=lib\WIZ820io.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1469,47 +1486,161 @@ ComponentSymbolReference1=10TPB33M
 ComponentUpdate1=1
 ComponentIsDeviceSheet1=0
 ComponentLibIdentifierKind2=Library Name And Type
-ComponentLibraryIdentifier2=LM2677SX-5.0.SchLib
-ComponentDesignItemID2=LM2677SX-5.0
-ComponentSymbolReference2=LM2677SX-5.0
-ComponentUpdate2=1
+ComponentLibraryIdentifier2=ATxmega64A4U-AU.SchLib
+ComponentDesignItemID2=ATxmega64A4U-AU
+ComponentSymbolReference2=ATxmega64A4U-AU
+ComponentUpdate2=0
 ComponentIsDeviceSheet2=0
 ComponentLibIdentifierKind3=Library Name And Type
-ComponentLibraryIdentifier3=MSS1210-153MEB.SchLib
-ComponentDesignItemID3=MSS1210-153MEB
-ComponentSymbolReference3=MSS1210-153MEB
-ComponentUpdate3=1
+ComponentLibraryIdentifier3=BLM18SG331TN1D.SchLib
+ComponentDesignItemID3=BLM18SG331TN1D
+ComponentSymbolReference3=BLM18SG331TN1D
+ComponentUpdate3=0
 ComponentIsDeviceSheet3=0
 ComponentLibIdentifierKind4=Library Name And Type
-ComponentLibraryIdentifier4=OVLib.SVNDbLib/altium
-ComponentDesignItemID4=100nF
-ComponentSymbolReference4=CAP
-ComponentUpdate4=0
+ComponentLibraryIdentifier4=LM2677SX-5.0.SchLib
+ComponentDesignItemID4=LM2677SX-5.0
+ComponentSymbolReference4=LM2677SX-5.0
+ComponentUpdate4=1
 ComponentIsDeviceSheet4=0
 ComponentLibIdentifierKind5=Library Name And Type
-ComponentLibraryIdentifier5=OVLib.SVNDbLib/altium
-ComponentDesignItemID5=10nF
-ComponentSymbolReference5=CAP
-ComponentUpdate5=0
+ComponentLibraryIdentifier5=LM43602PWPT.SchLib
+ComponentDesignItemID5=LM3602PWPT
+ComponentSymbolReference5=LM3602PWPT
+ComponentUpdate5=1
 ComponentIsDeviceSheet5=0
 ComponentLibIdentifierKind6=Library Name And Type
-ComponentLibraryIdentifier6=OVLib.SVNDbLib/altium
-ComponentDesignItemID6=4.7uF
-ComponentSymbolReference6=CAP
-ComponentUpdate6=0
+ComponentLibraryIdentifier6=MSS1038-333MLC.SchLib
+ComponentDesignItemID6=MSS1038-333MLC
+ComponentSymbolReference6=MSS1038-333MLC
+ComponentUpdate6=1
 ComponentIsDeviceSheet6=0
 ComponentLibIdentifierKind7=Library Name And Type
-ComponentLibraryIdentifier7=OVLib.SVNDbLib/altium
-ComponentDesignItemID7=TLV1117
-ComponentSymbolReference7=LDO_REGULATOR
-ComponentUpdate7=0
+ComponentLibraryIdentifier7=MSS1210-153MEB.SchLib
+ComponentDesignItemID7=MSS1210-153MEB
+ComponentSymbolReference7=MSS1210-153MEB
+ComponentUpdate7=1
 ComponentIsDeviceSheet7=0
 ComponentLibIdentifierKind8=Library Name And Type
-ComponentLibraryIdentifier8=PDS760-13.SchLib
-ComponentDesignItemID8=PDS760-13
-ComponentSymbolReference8=PDS760-13
-ComponentUpdate8=1
+ComponentLibraryIdentifier8=OVLib.SVNDbLib/altium
+ComponentDesignItemID8=100nF
+ComponentSymbolReference8=CAP
+ComponentUpdate8=0
 ComponentIsDeviceSheet8=0
+ComponentLibIdentifierKind9=Library Name And Type
+ComponentLibraryIdentifier9=OVLib.SVNDbLib/altium
+ComponentDesignItemID9=10nF
+ComponentSymbolReference9=CAP
+ComponentUpdate9=0
+ComponentIsDeviceSheet9=0
+ComponentLibIdentifierKind10=Library Name And Type
+ComponentLibraryIdentifier10=OVLib.SVNDbLib/altium
+ComponentDesignItemID10=1uF
+ComponentSymbolReference10=CAP
+ComponentUpdate10=1
+ComponentIsDeviceSheet10=0
+ComponentLibIdentifierKind11=Library Name And Type
+ComponentLibraryIdentifier11=OVLib.SVNDbLib/altium
+ComponentDesignItemID11=2.2uF
+ComponentSymbolReference11=CAP
+ComponentUpdate11=1
+ComponentIsDeviceSheet11=0
+ComponentLibIdentifierKind12=Library Name And Type
+ComponentLibraryIdentifier12=OVLib.SVNDbLib/altium
+ComponentDesignItemID12=4.7uF
+ComponentSymbolReference12=CAP
+ComponentUpdate12=0
+ComponentIsDeviceSheet12=0
+ComponentLibIdentifierKind13=Library Name And Type
+ComponentLibraryIdentifier13=OVLib.SVNDbLib/altium
+ComponentDesignItemID13=470nF
+ComponentSymbolReference13=CAP
+ComponentUpdate13=1
+ComponentIsDeviceSheet13=0
+ComponentLibIdentifierKind14=Library Name And Type
+ComponentLibraryIdentifier14=OVLib.SVNDbLib/altium
+ComponentDesignItemID14=PDI-HEADER
+ComponentSymbolReference14=PDI-HEADER
+ComponentUpdate14=1
+ComponentIsDeviceSheet14=0
+ComponentLibIdentifierKind15=Library Name And Type
+ComponentLibraryIdentifier15=OVLib.SVNDbLib/altium
+ComponentDesignItemID15=Pluggbar skrukobling x2
+ComponentSymbolReference15=Header1x2
+ComponentUpdate15=1
+ComponentIsDeviceSheet15=0
+ComponentLibIdentifierKind16=Library Name And Type
+ComponentLibraryIdentifier16=OVLib.SVNDbLib/altium
+ComponentDesignItemID16=SMD LED Red
+ComponentSymbolReference16=LED
+ComponentUpdate16=0
+ComponentIsDeviceSheet16=0
+ComponentLibIdentifierKind17=Library Name And Type
+ComponentLibraryIdentifier17=OVLib.SVNDbLib/altium
+ComponentDesignItemID17=TLV1117
+ComponentSymbolReference17=LDO_REGULATOR
+ComponentUpdate17=0
+ComponentIsDeviceSheet17=0
+ComponentLibIdentifierKind18=Library Name And Type
+ComponentLibraryIdentifier18=OVLib.SVNDbLib/altium_Kondensatorer
+ComponentDesignItemID18=100nF(0603)
+ComponentSymbolReference18=CAP
+ComponentUpdate18=0
+ComponentIsDeviceSheet18=0
+ComponentLibIdentifierKind19=Library Name And Type
+ComponentLibraryIdentifier19=OVLib.SVNDbLib/altium_Kondensatorer
+ComponentDesignItemID19=100uF(8mm)
+ComponentSymbolReference19=CAP
+ComponentUpdate19=1
+ComponentIsDeviceSheet19=0
+ComponentLibIdentifierKind20=Library Name And Type
+ComponentLibraryIdentifier20=OVLib.SVNDbLib/altium_Kondensatorer
+ComponentDesignItemID20=91pF(0603)
+ComponentSymbolReference20=CAP
+ComponentUpdate20=1
+ComponentIsDeviceSheet20=0
+ComponentLibIdentifierKind21=Library Name And Type
+ComponentLibraryIdentifier21=OVLib.SVNDbLib/altium_Motstander
+ComponentDesignItemID21=2448
+ComponentSymbolReference21=Resistor2
+ComponentUpdate21=1
+ComponentIsDeviceSheet21=0
+ComponentLibIdentifierKind22=Library Name And Type
+ComponentLibraryIdentifier22=OVLib.SVNDbLib/altium_Motstander
+ComponentDesignItemID22=2997
+ComponentSymbolReference22=Resistor2
+ComponentUpdate22=1
+ComponentIsDeviceSheet22=0
+ComponentLibIdentifierKind23=Library Name And Type
+ComponentLibraryIdentifier23=OVLib.SVNDbLib/altium_Motstander
+ComponentDesignItemID23=3025
+ComponentSymbolReference23=Resistor2
+ComponentUpdate23=1
+ComponentIsDeviceSheet23=0
+ComponentLibIdentifierKind24=Library Name And Type
+ComponentLibraryIdentifier24=OVLib.SVNDbLib/altium_Motstander
+ComponentDesignItemID24=3029
+ComponentSymbolReference24=Resistor2
+ComponentUpdate24=1
+ComponentIsDeviceSheet24=0
+ComponentLibIdentifierKind25=Library Name And Type
+ComponentLibraryIdentifier25=OVLib.SVNDbLib/altium_Motstander
+ComponentDesignItemID25=3031
+ComponentSymbolReference25=Resistor2
+ComponentUpdate25=0
+ComponentIsDeviceSheet25=0
+ComponentLibIdentifierKind26=Library Name And Type
+ComponentLibraryIdentifier26=PDS760-13.SchLib
+ComponentDesignItemID26=PDS760-13
+ComponentSymbolReference26=PDS760-13
+ComponentUpdate26=1
+ComponentIsDeviceSheet26=0
+ComponentLibIdentifierKind27=Library Name And Type
+ComponentLibraryIdentifier27=T495D476M025ATE120.SchLib
+ComponentDesignItemID27=T495D476M025ATE120
+ComponentSymbolReference27=T495D476M025ATE120
+ComponentUpdate27=1
+ComponentIsDeviceSheet27=0
 FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
@@ -1523,67 +1654,129 @@ RemoveParameters=0
 AddModels=1
 RemoveModels=1
 UpdateCurrentModels=1
-ParameterName0=Comment
+ParameterName0=antall
 ParameterUpdate0=1
-ParameterName1=Component Kind
+ParameterName1=Comment
 ParameterUpdate1=1
-ParameterName2=Description
+ParameterName2=Component Kind
 ParameterUpdate2=1
-ParameterName3=Farnell
+ParameterName3=Description
 ParameterUpdate3=1
-ParameterName4=leverandor
+ParameterName4=Digi-Key
 ParameterUpdate4=1
-ParameterName5=leverandor_varenr
+ParameterName5=dybde
 ParameterUpdate5=1
-ParameterName6=Leverandør
+ParameterName6=Farnell
 ParameterUpdate6=1
-ParameterName7=Library Reference
+ParameterName7=hylle
 ParameterUpdate7=1
-ParameterName8=navn
+ParameterName8=id
 ParameterUpdate8=1
-ParameterName9=nokkelord
+ParameterName9=kolonne
 ParameterUpdate9=1
-ParameterName10=pakke_opprettet
+ParameterName10=lager_type
 ParameterUpdate10=1
-ParameterName11=pakke_opprettet_av
+ParameterName11=leverandor
 ParameterUpdate11=1
-ParameterName12=pakketype
+ParameterName12=leverandor_varenr
 ParameterUpdate12=1
-ParameterName13=pris
+ParameterName13=Leverandør
 ParameterUpdate13=1
-ParameterName14=produsent
+ParameterName14=Library Reference
 ParameterUpdate14=1
-ParameterName15=symbol_opprettet
+ParameterName15=Manufacturer
 ParameterUpdate15=1
-ParameterName16=symbol_opprettet_av
+ParameterName16=MPN
 ParameterUpdate16=1
-ParameterName17=Varenummer
+ParameterName17=navn
 ParameterUpdate17=1
-ParameterName18=verdi
+ParameterName18=nokkelord
 ParameterUpdate18=1
+ParameterName19=PackageDescription
+ParameterUpdate19=1
+ParameterName20=PackageReference
+ParameterUpdate20=1
+ParameterName21=pakke_opprettet
+ParameterUpdate21=1
+ParameterName22=pakke_opprettet_av
+ParameterUpdate22=1
+ParameterName23=pakketype
+ParameterUpdate23=1
+ParameterName24=pris
+ParameterUpdate24=1
+ParameterName25=produsent
+ParameterUpdate25=1
+ParameterName26=rad
+ParameterUpdate26=1
+ParameterName27=rom
+ParameterUpdate27=1
+ParameterName28=symbol_opprettet
+ParameterUpdate28=1
+ParameterName29=symbol_opprettet_av
+ParameterUpdate29=1
+ParameterName30=Varenummer
+ParameterUpdate30=1
+ParameterName31=verdi
+ParameterUpdate31=1
 ModelTypeGroup0=PCBLIB
 ModelTypeUpdate0=1
 ModelType0=PCBLIB
-ModelName0=CAPC0805(2012)100_N
+ModelName0=0603
 ModelUpdate0=1
 ModelType1=PCBLIB
-ModelName1=CAPC1206(3216)170_N
+ModelName1=44A_L
 ModelUpdate1=1
 ModelType2=PCBLIB
-ModelName2=CAPMP7342X30N
+ModelName2=44A_M
 ModelUpdate2=1
 ModelType3=PCBLIB
-ModelName3=DFN540P650X115-3N
+ModelName3=44A_N
 ModelUpdate3=1
 ModelType4=PCBLIB
-ModelName4=DPAK127P1336X457-8N
+ModelName4=CAPC0603(1608)55_N
 ModelUpdate4=1
 ModelType5=PCBLIB
-ModelName5=INDP123123X100N
+ModelName5=CAPC0805(2012)100_N
 ModelUpdate5=1
 ModelType6=PCBLIB
-ModelName6=SOT230P700X180-4N
+ModelName6=CAPC1206(3216)170_N
 ModelUpdate6=1
+ModelType7=PCBLIB
+ModelName7=CAPMP7342X30N
+ModelUpdate7=1
+ModelType8=PCBLIB
+ModelName8=CAPPR35D08H11
+ModelUpdate8=1
+ModelType9=PCBLIB
+ModelName9=DFN540P650X115-3N
+ModelUpdate9=1
+ModelType10=PCBLIB
+ModelName10=DPAK127P1336X457-8N
+ModelUpdate10=1
+ModelType11=PCBLIB
+ModelName11=FCI-20020110-C021A01LF
+ModelUpdate11=1
+ModelType12=PCBLIB
+ModelName12=HEADER_3x2
+ModelUpdate12=1
+ModelType13=PCBLIB
+ModelName13=HTSSOP65P640X120_HS-17N
+ModelUpdate13=1
+ModelType14=PCBLIB
+ModelName14=I_LEDC0603(1608)_N
+ModelUpdate14=1
+ModelType15=PCBLIB
+ModelName15=INDP102100X40N
+ModelUpdate15=1
+ModelType16=PCBLIB
+ModelName16=INDP123123X100N
+ModelUpdate16=1
+ModelType17=PCBLIB
+ModelName17=RESC0603(1608)_N
+ModelUpdate17=1
+ModelType18=PCBLIB
+ModelName18=SOT230P700X180-4N
+ModelUpdate18=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
